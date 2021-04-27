@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
-  background: #ffc600;
+  background-image: url(./bg.jpg);
+  background-size: cover;
   font-family: 'helvetica neue';
   font-size: 20px;
   font-weight: 200;
